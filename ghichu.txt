@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 em chao anh nam
+=======
+xin chao toi ten la sy
+toi la nam
+>>>>>>> e532374ce45babf14197b786b77ff4e7bb3928b2
 =======
 xin chao mng
 toi la hoang
