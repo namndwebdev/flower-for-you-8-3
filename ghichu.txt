@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-xin chao mng
-toi la hoang
-=======
-xin chao toi la Cuong
-toi la lap trinh vien FE
->>>>>>> d399f0c4d3aca581b656451e97ecf13225dae6da
+em chao anh nam
