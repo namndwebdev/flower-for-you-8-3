@@ -1,16 +1,2 @@
-aa
-aaa
-aaa
-a
-a
-aaa
-a
-aa
-a
-a
-bb
-bbb
-bbb
-cccc
-bbb
-bbb
+xin chao toi la Cuong
+toi la lap trinh vien FE
