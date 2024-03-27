@@ -1,5 +1,6 @@
 xin chao mng
-toi la duong
-xin chao toi la duong
+toi la hoang
+xin chao toi la Cuong
 toi la lap trinh vien FE
-lần 3
+lần 2
+manh
