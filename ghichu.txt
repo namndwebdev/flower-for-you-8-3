@@ -1,15 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 em chao anh nam
-=======
 xin chao toi ten la sy
 toi la nam
->>>>>>> e532374ce45babf14197b786b77ff4e7bb3928b2
-=======
 xin chao mng
 toi la hoang
 xin chao toi la Cuong
 toi la lap trinh vien FE
 lần 2
 manh
->>>>>>> b3e15a618f578e093f91a0d194196b458feb1827
